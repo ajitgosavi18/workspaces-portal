@@ -19,7 +19,7 @@
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "approval@skycloud.be"
+            "Default": "admin@skycloud.be"
         },
         "ApproverEmail": {
             "Type": "String",
