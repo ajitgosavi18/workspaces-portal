@@ -19,12 +19,12 @@
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "admin@skycloud.be"
+            "Default": "adminskycloud@skycloud.be"
         },
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "admin@skycloud.be"
+            "Default": "adminskycloud@skycloud.be"
         },
         "DirectoryServicesId": {
             "Type": "String",
